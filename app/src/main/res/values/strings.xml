@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WisataKuy</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="detail">Detail</string>
+    <string name="title">title</string>
+    <string name="informasi_detail">informasi</string>
+    <string name="profil">Profil</string>
+    <string name="apakah_ini_membantumu">Apakah ini membantumu?</string>
+    <string name="yes">Iya</string>
+    <string name="tidak">Tidak</string>
+
+</resources>
