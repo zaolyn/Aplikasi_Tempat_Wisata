@@ -1,4 +1,4 @@
-package com.example.wisatakuy;
+package com.example.Faza;
 
 import android.os.Parcel;
 import android.os.Parcelable;
